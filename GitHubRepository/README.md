@@ -28,11 +28,11 @@ Become an Enterprise AI Solution Architect in 6 months.
 
 
 
-Week 1 ✔
+Week 1 
 
 
 
-Week 2 ✔
+Week 2 
 
 
 
@@ -44,15 +44,15 @@ Week 2 ✔
 
 
 
-✔ AI Chatbot
+ AI Chatbot
 
 
 
-✔ Resume Analyzer
+ Resume Analyzer
 
 
 
-✔ Enterprise Knowledge Base
+ Enterprise Knowledge Base
 
 
 
@@ -64,23 +64,23 @@ Week 2 ✔
 
 
 
-✔ LLM
+ LLM
 
 
 
-✔ RAG
+ RAG
 
 
 
-✔ MCP
+ MCP
 
 
 
-✔ AI Agents
+ AI Agents
 
 
 
-✔ Vector Databases
+ Vector Databases
 
 
 
