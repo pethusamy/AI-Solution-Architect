@@ -1,0 +1,1 @@
+Each folder will be a Visual Studio solution.
