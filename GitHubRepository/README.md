@@ -22,7 +22,7 @@ Become an Enterprise AI Solution Architect in 6 months.
 
 
 
-\[Start updating your progress here]
+[Start updating your progress here]
 
 \## Learning Progress
 
